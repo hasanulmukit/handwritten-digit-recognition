@@ -1,0 +1,5 @@
+Python 3.8+
+TensorFlow 2.8+
+NumPy
+Matplotlib 
+Streamlit 
