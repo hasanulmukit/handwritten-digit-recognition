@@ -1,4 +1,4 @@
-# Handwritten Digit Recognitio
+# Handwritten Digit Recognition
 
 ## Overview
 
